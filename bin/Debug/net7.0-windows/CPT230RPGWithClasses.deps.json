@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CPT230RPGWithClasses/1.0.0": {
+        "runtime": {
+          "CPT230RPGWithClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPT230RPGWithClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
